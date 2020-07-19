@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="42" last-seen="1594571709"/>
+    <application id="org.gnome.Nautilus.desktop" score="205" last-seen="1594590883"/>
+    <application id="org.gnome.Terminal.desktop" score="3954" last-seen="1595171395"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1594582658"/>
+    <application id="update-manager.desktop" score="0" last-seen="1595087957"/>
+    <application id="notepad-plus-plus_notepad-plus-plus.desktop" score="11270" last-seen="1595172551"/>
+  </context>
+</application-state>
